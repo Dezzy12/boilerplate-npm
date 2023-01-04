@@ -1,7 +1,7 @@
 {
     "name": "fcc-learn-npm-package-json",
     "author": "Neba Desmond",
-    "description": "A project that focuses on Backend Dev",
+    "description": "A project that focuses on Backend     Developement",
     "dependencies": {
         "express": "^4.18.2"
     },
