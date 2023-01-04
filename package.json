@@ -2,6 +2,7 @@
     "name": "fcc-learn-npm-package-json",
     "author": "Neba Desmond",
     "description": "A project that focuses on backendDevelopement",
+    "keywords": [ "descriptive", "related", "words","freecodecamp" ],
     "dependencies": {
         "express": "^4.18.2"
     },
